@@ -14,7 +14,7 @@
 ### Evidence
 - README link:https://github.com/parinya555/github101-practice/blob/c70632cf4de31856c2920aae41ccc770d6479c6f/README.md
 - Evidence file:https://github.com/parinya555/ai-posture-checker
-- Commit link:
+- Commit link:https://github.com/SANCHAIE/github101-practice/compare/main...parinya555:github101-practice:main
 
 ### Blocker
 - ไม่มี 
