@@ -1,17 +1,17 @@
-# GitHub Practice Evidence — [ชื่อ-สกุล]
+# GitHub Practice Evidence — [ปริญญา ลพเมือง]
 
 ## 1. My GitHub Username
 
-[ใส่ GitHub username]
+[parinya555]
 
 ## 2. My Team / Role
 
-- Team:
-- Role in Sprint:
+- Team:Smart Heart
+- Role in Sprint: Project Manager / Scrum Lead
 
 ## 3. What I did in this repo
 
-อธิบายสั้น ๆ ว่าเพิ่มหรือแก้ไขอะไรใน repo นี้
+
 
 ## 4. Evidence Link
 
