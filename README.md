@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| ปริญญา ลพเมือง | Team 10 | Demo | [example evidence](docs/evidence/example-student.md) | - |
+| ปริญญา ลพเมือง | Team 10 | Project Manager / Scrum Lead | [example evidence](docs/evidence/example-student.md) | - |
 
 ---
 
