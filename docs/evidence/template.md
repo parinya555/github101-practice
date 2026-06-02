@@ -17,7 +17,7 @@
 
 - README link:
 - Commit link:
-- Issue link:
+- Issue link:https://github.com/parinya555/github101-practice/issues/1
 
 ## 5. Reflection
 
