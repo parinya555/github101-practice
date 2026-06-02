@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| ปริญญา ลพเมือง | Team 10 | Project Manager / Scrum Lead | [example evidence](docs/evidence/example-student.md) | https://github.com/parinya555/github101-practice/tree/8788cc21f8a1042fe9d76ea7ea8bbd09aa3a56d0/docs/issues |
+| ปริญญา ลพเมือง | Team 10 | Project Manager / Scrum Lead | https://github.com/parinya555/github101-practice/blob/c28d244078def61469c29b1903b790ba4a106f00/docs/evidence/67050560-parinya.md | https://github.com/parinya555/github101-practice/tree/8788cc21f8a1042fe9d76ea7ea8bbd09aa3a56d0/docs/issues |
 
 ---
 
