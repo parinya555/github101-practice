@@ -10,7 +10,12 @@
 - Role in Sprint: Project Manager / Scrum Lead
 
 ## 3. What I did in this repo
-
+เข้าใช้งาน GitHub Repository ที่กำหนด
+ตรวจสอบไฟล์ README.md และโครงสร้างของ Repository
+เพิ่มข้อมูลของตนเองใน README.md
+สร้างไฟล์ Evidence ของตนเองใน docs/evidence/
+Commit การแก้ไขขึ้น GitHub
+สร้าง Practice Issue ตามที่กำหนด
 
 
 ## 4. Evidence Link
