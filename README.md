@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| ปริญญา ลพเมือง | Team 10 | Project Manager / Scrum Lead | https://github.com/parinya555/ai-posture-checker | https://github.com/parinya555/github101-practice/tree/8788cc21f8a1042fe9d76ea7ea8bbd09aa3a56d0/docs/issues |
+| ปริญญา ลพเมือง | Team 10 | Project Manager / Scrum Lead | https://github.com/parinya555/github101-practice/tree/main/docs/evidence | https://github.com/parinya555/github101-practice/tree/8788cc21f8a1042fe9d76ea7ea8bbd09aa3a56d0/docs/issues |
 
 ---
 
