@@ -26,6 +26,9 @@ Commit การแก้ไขขึ้น GitHub
 
 ## 5. Reflection
 
-1. วันนี้ฉันเพิ่ม/แก้ไขอะไรใน repo:
-2. ฉันใช้วิธีไหน: GitHub Web / GitHub Desktop / command line / อื่น ๆ
+1. วันนี้ฉันเพิ่ม/แก้ไขอะไรใน repo:เพิ่มข้อมูลของตนเองใน README.md
+สร้างไฟล์ Evidence
+สร้าง Practice Issue
+Commit งานขึ้น GitHub
+2. ฉันใช้วิธีไหน: GitHub Web 
 3. ฉันติดปัญหาอะไร และแก้อย่างไร:
