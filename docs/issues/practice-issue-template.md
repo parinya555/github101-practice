@@ -7,9 +7,9 @@
 ## Description
 
 ### What I need to do
-- [ ] Edit README
-- [ ] Add evidence file
-- [ ] Submit links
+- [✅] Edit README
+- [✅] Add evidence file
+- [✅] Submit links
 
 ### Evidence
 - README link:https://github.com/parinya555/github101-practice/blob/c70632cf4de31856c2920aae41ccc770d6479c6f/README.md
@@ -17,7 +17,7 @@
 - Commit link:
 
 ### Blocker
-- ไม่มี / 
+- ไม่มี 
 
 ### Need help from
 - Scrum Lead 
