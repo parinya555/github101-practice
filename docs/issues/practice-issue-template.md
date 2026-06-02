@@ -13,11 +13,11 @@
 
 ### Evidence
 - README link:https://github.com/parinya555/github101-practice/blob/c70632cf4de31856c2920aae41ccc770d6479c6f/README.md
-- Evidence file:
+- Evidence file:https://github.com/parinya555/ai-posture-checker
 - Commit link:
 
 ### Blocker
-- ไม่มี / มี: ...
+- ไม่มี / 
 
 ### Need help from
-- Scrum Lead / teammate / TA / อาจารย์
+- Scrum Lead 
